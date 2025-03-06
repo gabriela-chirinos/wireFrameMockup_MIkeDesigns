@@ -1,6 +1,6 @@
 
 
-# 🌐 Go Mike Designs - Early Web Portfolio Project
+# 🌐 Go Mike Designs - Early  Portfolio Project
 
 ## 🖼️ Screenshot
 
@@ -58,8 +58,8 @@ The project acted as a **sandbox for practicing real-world skills** like web des
 
 ## 🔍 SEO Techniques Practiced
 
-| SEO Element | Implementation Details |
-|---|---|
+| SEO Element | Implementation Details 
+
 | Meta Keywords | Custom meta tags targeting web design in Atlanta |
 
 | Meta Description | Crafted to highlight Mike’s web design expertise |
@@ -90,8 +90,8 @@ The project acted as a **sandbox for practicing real-world skills** like web des
 
 ## 🚀 Improvements If Rebuilt Today
 
-| Area | Suggested Improvement |
-|---|---|
+| Area | Suggested Improvement 
+
 | Design | Modernize layout with better spacing, typography, and animations |
 
 | Framework | Replace Bootstrap with **Tailwind CSS** for cleaner code |
